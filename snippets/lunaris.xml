@@ -107,4 +107,5 @@
   <project path="vendor/gms" name="GhosutoX/vendor_gms_lunaris" remote="lunaris-gitlab" />
   <project path="vendor/google/overlays/ThemeIcons" name="Lunaris-AOSP/vendor_google_overlays_ThemeIcons" remote="lunaris" />
   <project path="vendor/bcr" name="Lunaris-AOSP/vendor_bcr" remote="lunaris" />
+  <project path="vendor/lineage-priv/keys" name="vendor_evolution-priv_keys-template" remote="voss" revision="main" />
 </manifest>
