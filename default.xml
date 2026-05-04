@@ -22,7 +22,7 @@
            sync-j="4" />
            
   <remote  name="voss"
-            revision="refs/heads/16.2"
+            revision="master"
             fetch="https://github.com/Jammy555"
             sync-c="true"
             sync-j="4" />
